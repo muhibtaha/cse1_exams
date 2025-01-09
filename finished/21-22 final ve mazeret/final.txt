@@ -1,0 +1,6 @@
+CSE 101 2021-2022 Final mazeret soruları:
+1) 16bitlik (2 memory cellik) sayıyı 3e bölen simple machine assembly kodu yaz. 
+2)Pointer alan fonksiyon matrix simetrik mi kontrol etsin, simetrikse true değilse false returnlesin, main ona göre print yapsın.
+3) grade [n], names[n] var. Bu sınıftaki en düşük 10 kişinin adını ve notunu, o 10 kişinin ortalama notunu, sınıfın ortalama notunu printle.
+4)Binary tree ne işe yarar, örnek ver açıkla
+5)Stack ne işimize yarar açıkla, örnek verme de istiyordu galiba
